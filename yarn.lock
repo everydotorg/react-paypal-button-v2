@@ -1367,9 +1367,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@everydotorg/react-paypal-button-v2@workspace:.":
+"@every.org/react-paypal-button-v2@workspace:.":
   version: 0.0.0-use.local
-  resolution: "@everydotorg/react-paypal-button-v2@workspace:."
+  resolution: "@every.org/react-paypal-button-v2@workspace:."
   dependencies:
     "@babel/cli": ^7.5.5
     "@babel/core": ^7.5.5
