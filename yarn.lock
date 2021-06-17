@@ -1382,10 +1382,10 @@ __metadata:
     "@types/enzyme": ^3.10.3
     "@types/enzyme-adapter-react-16": ^1.0.5
     "@types/jest": ^23.3.14
-    "@types/node": ^11.9.4
+    "@types/node": ^15.12.2
     "@types/react": ^17.0.11
     "@types/react-dom": ^17.0.7
-    "@types/webpack-env": ^1.14.0
+    "@types/webpack-env": ^1.16.0
     "@typescript-eslint/eslint-plugin": 1.4.0
     "@typescript-eslint/parser": 1.4.0
     babel-core: ^6.26.3
@@ -1671,17 +1671,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/node@npm:*":
+"@types/node@npm:*, @types/node@npm:^15.12.2":
   version: 15.12.2
   resolution: "@types/node@npm:15.12.2"
   checksum: 26b9170eb825656751955e919dcea7963d1be4d1eba361c67e41b51a55436c51d69d63f49ee98aaf4fe2e0e5eb3c0038408a8f542316b7583e9badf4fdd10024
-  languageName: node
-  linkType: hard
-
-"@types/node@npm:^11.9.4":
-  version: 11.15.54
-  resolution: "@types/node@npm:11.15.54"
-  checksum: 06f13240a370289c828a6efccc7570ab3f637ff65b6e77a3146dc6b9a1dd584e5d915dc51c2b49c23a4b983fbee991bd8d7ca49b3b3fba8f86bc2b1d2eac4419
   languageName: node
   linkType: hard
 
@@ -1733,7 +1726,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/webpack-env@npm:^1.14.0":
+"@types/webpack-env@npm:^1.16.0":
   version: 1.16.0
   resolution: "@types/webpack-env@npm:1.16.0"
   checksum: eaf62fb65ba18737174a520a444bb7407e5a6f32581690c5a7a687e6f86e9d4ce336fd9e79989aafa19e5f390046ad54b9100cd3d70a43dcf0ab0161d30cd5bd
