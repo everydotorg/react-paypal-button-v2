@@ -4,3 +4,12 @@ example/dist
 package-lock.json
 dist
 lib
+
+# yarn berry without zeroinstalls
+.yarn/*
+!.yarn/patches
+!.yarn/releases
+!.yarn/plugins
+!.yarn/sdks
+!.yarn/versions
+.pnp.*
