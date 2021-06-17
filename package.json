@@ -1,5 +1,5 @@
 {
-    "name": "@everydotorg/react-paypal-button-v2",
+    "name": "@every.org/react-paypal-button-v2",
     "version": "2.6.3",
     "description": "An easy and simple to use React button component to implement PayPal's Checkout with Smart Payment Buttons V2 (Version 2).",
     "keywords": [
